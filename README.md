@@ -4,6 +4,7 @@ En la siguiente imagen podemos ver el inicio de la configuración
 
 
 En la segunda imagen observamos el siguiente paso:
+<img width="819" height="514" alt="5 - Captura de pantalla MV  Windows inicio - configuracion de red NAT" src="https://github.com/user-attachments/assets/0416cef1-09d4-4ad3-817e-007741d1df3f" />
 
 
 
